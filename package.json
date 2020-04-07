@@ -1,0 +1,23 @@
+{
+  "name": "mongofinal",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-handlebars": "^4.0.3",
+    "git": "^0.1.5",
+    "hbs": "^4.1.1",
+    "http-errors": "~1.6.3",
+    "init": "^0.1.2",
+    "jade": "~1.11.0",
+    "mongodb": "3.5.5",
+    "morgan": "~1.9.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
